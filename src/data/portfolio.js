@@ -67,7 +67,7 @@ export const projects = [
       "A responsive website built for an advocate, published on Netlify with a clean public-facing layout and GitHub source code.",
     tags: ["Website", "Netlify", "GitHub"],
     gradient: "from-cyan-500 via-blue-600 to-indigo-700",
-    liveUrl: "https://silver-marigold-e3a47d.netlify.app/",
+    liveUrl: "https://adv-firoz.netlify.app/",
     githubUrl: "https://github.com/irfan2003ansari-lgtm/advocateWeb",
   },
   {
