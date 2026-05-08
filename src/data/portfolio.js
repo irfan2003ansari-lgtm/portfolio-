@@ -7,7 +7,7 @@ export const profile = {
   location: "India",
   email: "irfan2003isro@gmail.com",
   image: "/irfan-profile.jpg",
-  resume: "/IRFAN_Res.pdf",
+  resume: "/IrfanResume.pdf",
   github: "https://github.com/irfan2003ansari-lgtm",
   instagram: "https://www.instagram.com/irfan_141_/",
 };
